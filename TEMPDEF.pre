@@ -1,0 +1,25 @@
+
+# 1 "C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C"
+
+typedef unsigned int UINT ;
+typedef unsigned char UCHAR ;
+typedef unsigned long ULONG ;
+
+# 32
+volatile UCHAR kcnt,key,keyrel;
+int cnt1,cnt2,cnt3;
+
+
+UCHAR Refresh,Second,sign,minsign,maxsign;
+UINT delaycnt,milisec,adcval,wmin,wmax;
+ULONG Temp1,Temp2,Temp3;
+UCHAR lcd_dat,TempZ,scan,Rxcnt,Rxindex;
+bit adcflag,RxFlag,recBit,kflag;
+static bank1 UCHAR str[16] ;
+static bank2 UCHAR DataBuffer[75] ;
+
+void delay(UINT num);
+void LCD_DisplayChar (char a_char);
+void TransStr(const UCHAR *s) ;
+void Transmit(UCHAR Byte);
+

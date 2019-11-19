@@ -1,0 +1,92 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+DataBuffer	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	38;"	v	line:38	file:
+KEY::RD3	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	21;"	d	line:21	file:
+LCDD4::RB4	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	18;"	d	line:18	file:
+LCDD5::RB5	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	17;"	d	line:17	file:
+LCDD6::RB6	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	16;"	d	line:16	file:
+LCDD7::RB7	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	15;"	d	line:15	file:
+LCDEN::RB2	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	13;"	d	line:13	file:
+LCDRS::RB1	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	11;"	d	line:11	file:
+LCDRW::RB3	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	12;"	d	line:12	file:
+LCD_Clear	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	256;"	f	line:256	signature:(void)
+LCD_Cursor	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	266;"	f	line:266	signature:(char row, char column)
+LCD_CursorOff	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	198;"	f	line:198	signature:(void)
+LCD_CursorOn	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	192;"	f	line:192	signature:(void)
+LCD_DisplayChar	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	275;"	f	line:275	signature:(char a_char)
+LCD_DisplayChar	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	41;"	p	line:41	file:	signature:(char a_char)
+LEDG::RD1	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	23;"	d	line:23	file:
+LEDR::RD0	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	22;"	d	line:22	file:
+LcdData	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	91;"	l	line:91
+RXCNT::200	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	8;"	d	line:8	file:
+ReceiveSerialData	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	351;"	f	line:351	signature:(void)
+Refresh	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	32;"	v	line:32
+RxFlag	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	36;"	v	line:36
+Rxcnt	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	35;"	v	line:35
+Rxindex	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	35;"	v	line:35
+Second	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	32;"	v	line:32
+TIMER1_RELOADH::0xF5	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	6;"	d	line:6	file:
+TIMER1_RELOADL::0x33	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	7;"	d	line:7	file:
+Temp1	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	34;"	v	line:34
+Temp2	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	34;"	v	line:34
+Temp3	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	34;"	v	line:34
+TempZ	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	35;"	v	line:35
+TransStr	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	316;"	f	line:316	signature:(const UCHAR *s)
+TransStr	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	42;"	p	line:42	file:	signature:(const UCHAR *s)
+Transmit	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	323;"	f	line:323	signature:(UCHAR Byte)
+Transmit	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	43;"	p	line:43	file:	signature:(UCHAR Byte)
+UCHAR	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	3;"	t	line:3	file:
+UINT	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	2;"	t	line:2	file:
+ULONG	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	4;"	t	line:4	file:
+UPPER::1	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	19;"	d	line:19	file:
+adcflag	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	36;"	v	line:36
+adcval	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	33;"	v	line:33
+byte	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	143;"	l	line:143
+byte	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	160;"	l	line:160
+channel_Sel	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	281;"	f	line:281	signature:(UCHAR channel)
+cnt1	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	29;"	v	line:29
+cnt2	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	29;"	v	line:29
+cnt3	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	29;"	v	line:29
+delay	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	80;"	f	line:80	signature:(UINT num)
+delay	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	40;"	p	line:40	file:	signature:(UINT num)
+delaycnt	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	33;"	v	line:33
+disp_clear	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	245;"	f	line:245	signature:(UCHAR stcol, UCHAR endcol,UCHAR addr)
+display	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	205;"	f	line:205	signature:(UCHAR addr)
+dispnum	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	229;"	f	line:229	signature:(UINT num, UCHAR stcol, UCHAR endcol, UCHAR dp,UCHAR addr)
+dispstr	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	218;"	f	line:218	signature:(const UCHAR *s, UCHAR stcol, UCHAR endcol,UCHAR addr )
+i	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	220;"	l	line:220
+i	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	231;"	l	line:231
+i	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	248;"	l	line:248
+i	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	258;"	l	line:258
+i	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	333;"	l	line:333
+inithw	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	44;"	f	line:44	signature:(void)
+initlcd	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	171;"	f	line:171	signature:(void)
+initvar	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	304;"	f	line:304	signature:(void)
+isr	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	4;"	f	line:4	signature:(void)
+k	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	207;"	l	line:207
+kcnt	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	28;"	v	line:28
+key	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	28;"	v	line:28
+keyrel	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	28;"	v	line:28
+kflag	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	36;"	v	line:36
+lcd_dat	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	35;"	v	line:35
+main	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	379;"	f	line:379	signature:(void)
+maxsign	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	32;"	v	line:32
+milisec	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	33;"	v	line:33
+minsign	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	32;"	v	line:32
+recBit	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	36;"	v	line:36
+scan	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	35;"	v	line:35
+send_nibble2lcd	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	86;"	f	line:86	signature:(unsigned char PortData, char flag)
+sign	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	32;"	v	line:32
+str	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	37;"	v	line:37	file:
+time	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	82;"	l	line:82
+transNum	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	331;"	f	line:331	signature:(UINT num, UCHAR stcol, UCHAR endcol, UCHAR dp)
+wmax	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	33;"	v	line:33
+wmin	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C	33;"	v	line:33
+write_lcd_command	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	141;"	f	line:141	signature:(void)
+write_lcd_data	C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\ADCLCD.C	158;"	f	line:158	signature:(void)

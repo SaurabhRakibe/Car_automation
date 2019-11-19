@@ -1,0 +1,77 @@
+Version 3.2 HI-TECH Software Intermediate Code
+"32 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _kcnt `Vuc 1 e ]
+"32 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _key `Vuc 1 e ]
+"32 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _keyrel `Vuc 1 e ]
+"33 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _cnt1 `i 1 e ]
+"33 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _cnt2 `i 1 e ]
+"33 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _cnt3 `i 1 e ]
+"36 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _Refresh `uc 1 e ]
+"36 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _Second `uc 1 e ]
+"36 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _sign `uc 1 e ]
+"36 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _minsign `uc 1 e ]
+"36 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _maxsign `uc 1 e ]
+"37 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _delaycnt `ui 1 e ]
+"37 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _milisec `ui 1 e ]
+"37 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _adcval `ui 1 e ]
+"37 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _wmin `ui 1 e ]
+"37 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _wmax `ui 1 e ]
+"38 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _Temp1 `ul 1 e ]
+"38 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _Temp2 `ul 1 e ]
+"38 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _Temp3 `ul 1 e ]
+"39 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _lcd_dat `uc 1 e ]
+"39 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _TempZ `uc 1 e ]
+"39 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _scan `uc 1 e ]
+"39 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _Rxcnt `uc 1 e ]
+"39 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _Rxindex `uc 1 e ]
+"40 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _adcflag `b 1 e ]
+"40 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _RxFlag `b 1 e ]
+"40 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _recBit `b 1 e ]
+"40 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _kflag `b 1 e ]
+"41 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _str `Xuc -> 16 `i s ]
+"42 C:\Documents and Settings\Ci1\Desktop\PIC_AnalogSensors_LED\Code\TEMPDEF.C
+[v _DataBuffer `Yuc -> 75 `i s ]
+[; ;TEMPDEF.C: 2: typedef unsigned int UINT ;
+[; ;TEMPDEF.C: 3: typedef unsigned char UCHAR ;
+[; ;TEMPDEF.C: 4: typedef unsigned long ULONG ;
+[; ;TEMPDEF.C: 32: volatile UCHAR kcnt,key,keyrel;
+[; ;TEMPDEF.C: 33: int cnt1,cnt2,cnt3;
+[; ;TEMPDEF.C: 36: UCHAR Refresh,Second,sign,minsign,maxsign;
+[; ;TEMPDEF.C: 37: UINT delaycnt,milisec,adcval,wmin,wmax;
+[; ;TEMPDEF.C: 38: ULONG Temp1,Temp2,Temp3;
+[; ;TEMPDEF.C: 39: UCHAR lcd_dat,TempZ,scan,Rxcnt,Rxindex;
+[; ;TEMPDEF.C: 40: bit adcflag,RxFlag,recBit,kflag;
+[; ;TEMPDEF.C: 41: static bank1 UCHAR str[16] ;
+[; ;TEMPDEF.C: 42: static bank2 UCHAR DataBuffer[75] ;
+[; ;TEMPDEF.C: 44: void delay(UINT num);
+[; ;TEMPDEF.C: 45: void LCD_DisplayChar (char a_char);
+[; ;TEMPDEF.C: 46: void TransStr(const UCHAR *s) ;
+[; ;TEMPDEF.C: 47: void Transmit(UCHAR Byte);

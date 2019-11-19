@@ -1,0 +1,18 @@
+_dispstr: CODE, 1214 0 58
+_delay: CODE, 1488 0 22
+_dispnum: CODE, 639 0 97
+_initvar: CODE, 1454 0 34
+_display: CODE, 1033 0 61
+_main: CODE, 61 0 261
+___lmul: CODE, 898 0 72
+_initlcd: CODE, 322 0 177
+___lwdiv: CODE, 823 0 75
+_isr: CODE, 499 0 140
+_LCD_Cursor: CODE, 1413 0 41
+___lwmod: CODE, 970 0 63
+_send_nibble2lcd: CODE, 1272 0 55
+_write_lcd_command: CODE, 1094 0 60
+_inithw: CODE, 1154 0 60
+_write_lcd_data: CODE, 1371 0 42
+_channel_Sel: CODE, 736 0 87
+Total: 1405
